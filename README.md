@@ -13,7 +13,7 @@ I'm a creative technologist and designer with a strong foundation in computation
   Developing intelligent automation for isogeometric analysis, edge coupling detection, and simulation prep in Rhino/Grasshopper.
 
 - 📊 **Process Digitization for SMEs**  
-  Through [PARAMETRIC Solutions](https://www.parametric-solutions.de), I help businesses in AEC and manufacturing rethink their processes and adopt digital strategies.
+  Through [PARAMETRIC.solutions](https://www.parametricsolutions.de), I help businesses in AEC and manufacturing rethink their processes and adopt digital strategies.
 
 - 🎓 **Teaching & Empowering Students**  
   Promoting hands-on access to digital tools at FH Münster, including robotic fabrication, simulation workflows, and integrated CAD/CAM processes.
