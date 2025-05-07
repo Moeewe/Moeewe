@@ -18,7 +18,7 @@ I'm a creative technologist and designer with a strong foundation in computation
 - 🎓 **Teaching & Empowering Students**  
   Promoting hands-on access to digital tools at FH Münster, including robotic fabrication, simulation workflows, and integrated CAD/CAM processes.
 
-- 🎧 ** DJ (MOEWE)**  
+- 🎧 **DJ (MOEWE)**  
   Yes, also that! I create unforgettable atmospheres for events with customized music experiences and a strong focus on people.
 
 ## 🛠️ Tools & Tech
