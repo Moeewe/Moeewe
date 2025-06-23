@@ -34,5 +34,3 @@ I'm a creative technologist and designer with a strong foundation in computation
 - Website: [parametricsolutions.de](https://www.parametricsolutions.de)
 
 ---
-
-> *"From concept to creation and beyond — I believe in making digital tools that empower people, not just automate processes."*
