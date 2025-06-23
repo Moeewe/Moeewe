@@ -9,17 +9,11 @@ I'm a creative technologist and designer with a strong foundation in computation
 - 🤖 **Robotic 3D Printing**  
   Working with industrial robotic arms (KUKA, DXR25, etc.) and pellet-based extrusion systems for prototyping and 1:1 architectural applications.
 
-- 📐 **Simulation & Coupling Logic**  
-  Developing intelligent automation for isogeometric analysis, edge coupling detection, and simulation prep in Rhino/Grasshopper.
-
 - 📊 **Process Digitization for SMEs**  
   Through [PARAMETRIC.solutions](https://www.parametricsolutions.de), I help businesses in AEC and manufacturing rethink their processes and adopt digital strategies.
 
 - 🎓 **Teaching & Empowering Students**  
   Promoting hands-on access to digital tools at FH Münster, including robotic fabrication, simulation workflows, and integrated CAD/CAM processes.
-
-- 🎧 **DJ (MOEWE)**  
-  Yes, also that! I create unforgettable atmospheres for events with customized music experiences and a strong focus on people.
 
 ## 🛠️ Tools & Tech
 - Rhino + Grasshopper
@@ -38,7 +32,6 @@ I'm a creative technologist and designer with a strong foundation in computation
 ## 📫 Let’s Connect!
 - Email: mail@[moritzwesseler].de
 - Website: [parametricsolutions.de](https://www.parametricsolutions.de)
-- DJ Site: [djmoewe.de](https://www.djmoewe.de)
 
 ---
 
